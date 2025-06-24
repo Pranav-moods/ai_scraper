@@ -21,7 +21,7 @@ pip install chromadb
 
 ## 📦 Directory Structure
 .
-├── 1_scraper.py               # (optional) For scraping chapter text
+├── 1_scraper.py               # For scraping chapter text
 ├── 2_ai_writer_and_review.py  # AI rewrite + review + human edit
 ├── 3_human_edit_round_1.txt   # Manual editing interface
 ├── 4_storage.py               # Save final chapter to ChromaDB
